@@ -12,17 +12,16 @@ My Portofolio in Data Science
 
 ## 2. Credit Score Output
 Decision tree:
-
-jumlah_tanggungan > 4:
-:...durasi_pinjaman_bulan <= 24: 4 (98/25)
-:   durasi_pinjaman_bulan > 24: 5 (129/49)
-jumlah_tanggungan <= 4:
-:...jumlah_tanggungan > 2: 3 (219/17)
-    jumlah_tanggungan <= 2:
-    :...durasi_pinjaman_bulan <= 36: 1 (259/80)
-        durasi_pinjaman_bulan > 36:
-        :...jumlah_tanggungan <= 0: 2 (37/7)
-            jumlah_tanggungan > 0: 3 (58/2)
+- jumlah_tanggungan > 4:
+    :...durasi_pinjaman_bulan <= 24: 4 (98/25)
+    :   durasi_pinjaman_bulan > 24: 5 (129/49)
+- jumlah_tanggungan <= 4:
+    :...jumlah_tanggungan > 2: 3 (219/17)
+        jumlah_tanggungan <= 2:
+        :...durasi_pinjaman_bulan <= 36: 1 (259/80)
+            durasi_pinjaman_bulan > 36:
+            :...jumlah_tanggungan <= 0: 2 (37/7)
+                jumlah_tanggungan > 0: 3 (58/2)
            
 <br> 
 <img height ="700" src="https://github.com/bimaary31/data_credit_rating/blob/main/Rplot.png"/>
