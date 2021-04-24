@@ -67,5 +67,5 @@ Decision tree:
 - Simpulan 
     Berdasarkan hasil prediksi diatas bahwa  penlanggan yang menetap pada telco companny lebih banyak dibandingkan pelanggan yang beraliih  
     
-## Project 3: Retail Raw Reduced in DKI Jakarta Province
+## [Project 3: Retail Raw Reduced in DKI Jakarta Province](https://github.com/bimaary31/Data_Visualization.git)
 
