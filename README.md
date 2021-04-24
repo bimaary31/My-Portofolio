@@ -62,6 +62,6 @@ Decision tree:
     1. Prediksi confusion matrix Pelanggan yang  benar-benar tidak beralih  ke operator lain sebanyak 3199 pelanggan <br>
     2. Prediksi confusion matrix Pelanggan yang  diperkirakan  tidak beralih  ke operator lain namun beralih ke operator lain sebanyak 376 pelanggan <br>
     3. Prediksi confusion matrix Pelanggan yang  diperkirakan  beralih  ke operator lain namun tidak beralih ke operator lain sebanyak 723 pelanggan <br>
-    4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 567
+    4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 567 <br>
 - Simpulan 
     Berdasarkan hasil prediksi diatas bahwa  penlanggan yang menetap pada telco companny lebih banyak dibandingkan pelanggan yang beraliih  
