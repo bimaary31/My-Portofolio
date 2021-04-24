@@ -46,3 +46,12 @@ Decision tree:
 <br>
 <img  height="400" src="https://github.com/bimaary31/customer_churn/blob/main/Eksplorasi%20data.png"/>
 <br>
+
+- Hasil Testing Predict Model
+<br>
+<img height="350" src="https://github.com/bimaary31/customer_churn/blob/main/Testing%20Model.png"/>
+<br>
+    1. Prediksi confusion matrix Pelanggan yang  benar-benar tidak beralih  ke operator lain sebanyak 1338 pelanggan
+    2. Prediksi confusion matrix Pelanggan yang  diperkirakan  tidak beralih  ke operator lain namun beralih ke operator lain sebanyak 151 pelanggan
+    3. Prediksi confusion matrix Pelanggan yang  diperkirakan  beralih  ke operator lain namun tidak beralih ke operator lain sebanyak 311 pelanggan
+    4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 235
