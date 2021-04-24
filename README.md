@@ -24,7 +24,7 @@ Decision tree:
                 jumlah_tanggungan > 0: 3 (58/2)
            
 <br> 
-<img height ="500" src="https://github.com/bimaary31/data_credit_rating/blob/main/Rplot.png"/>
+<img height ="400" src="https://github.com/bimaary31/data_credit_rating/blob/main/Rplot.png"/>
 <br>
 
 ## [Project 2: Predict Customer Churn Telco for Telco Companny](https://github.com/bimaary31/customer_churn.git)
@@ -42,3 +42,7 @@ Decision tree:
     10. TotalCharges
 - Variabel Inti
     1. Churn
+- Eksplorasi Data
+<br>
+<img  height="400" src="https://github.com/bimaary31/customer_churn/blob/main/Eksplorasi%20data.png"/>
+<br>
