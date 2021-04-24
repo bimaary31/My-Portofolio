@@ -24,5 +24,21 @@ Decision tree:
                 jumlah_tanggungan > 0: 3 (58/2)
            
 <br> 
-<img height ="700" src="https://github.com/bimaary31/data_credit_rating/blob/main/Rplot.png"/>
+<img height ="500" src="https://github.com/bimaary31/data_credit_rating/blob/main/Rplot.png"/>
 <br>
+
+## [Project 2: Predict Customer Churn Telco for Telco Companny](https://github.com/bimaary31/customer_churn.git)
+- Melakukan prediksi dengan machine learning dengan pendekatan Logistic Regression 
+- Menggunakan variabel independen 
+    1. Gender
+    2. Senior Citizen
+    3. Partner
+    4. Tenure
+    5. Phone Service
+    6. Streaming Tv
+    7. Internet Service
+    8. PaperLessBilling
+    9. MonthlyCharges
+    10. TotalCharges
+- Variabel Inti
+    1. Churn
