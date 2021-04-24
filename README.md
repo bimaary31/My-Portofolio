@@ -54,7 +54,8 @@ Decision tree:
     1. Prediksi confusion matrix Pelanggan yang  benar-benar tidak beralih  ke operator lain sebanyak 1338 pelanggan <br>
     2. Prediksi confusion matrix Pelanggan yang  diperkirakan  tidak beralih  ke operator lain namun beralih ke operator lain sebanyak 151 pelanggan <br>
     3. Prediksi confusion matrix Pelanggan yang  diperkirakan  beralih  ke operator lain namun tidak beralih ke operator lain sebanyak 311 pelanggan <br>
-    4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 235
+    4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 235 <br>
+    
 - Hasil Training Model
 <br>
 <img height="350" src="https://github.com/bimaary31/customer_churn/blob/main/Training%20Model.png"/> 
