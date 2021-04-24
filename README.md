@@ -65,3 +65,6 @@ Decision tree:
     4. Prediksi confusion matrix Pelanggan yang  benar-benar beralih  ke operator lain sebanyak 567 <br>
 - Simpulan 
     Berdasarkan hasil prediksi diatas bahwa  penlanggan yang menetap pada telco companny lebih banyak dibandingkan pelanggan yang beraliih  
+    
+## Project 2: Retail Raw Reduced in DKI Jakarta Province
+
