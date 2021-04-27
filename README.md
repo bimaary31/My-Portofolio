@@ -69,7 +69,7 @@ Decision tree:
     
 ## [Project 3: Retail Raw Reduced in DKI Jakarta Province](https://github.com/bimaary31/Data_Visualization.git)
 
-## [Project 4: Isurance Cost Prediction]('https://github.com/bimaary31/insurance_cost_prediction.git')
+## [Project 4: Isurance Cost Prediction](https://github.com/bimaary31/insurance_cost_prediction.git)
 - Tahap-tahap project
 1. Loading data
 2. Data wrangling
