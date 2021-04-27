@@ -70,20 +70,18 @@ Decision tree:
 ## [Project 3: Retail Raw Reduced in DKI Jakarta Province](https://github.com/bimaary31/Data_Visualization.git)
 
 ## [Project 4: Isurance Cost Prediction]('https://github.com/bimaary31/insurance_cost_prediction.git')
-- Variabel yang digunakan:
-1. Age
-2. BMI
-3. Children
-4. Region
-
-- Variabel utama
-1. charges
-
 - Tahap-tahap project
 1. Loading data
 2. Data wrangling
-3. Exploration Data
+3. Exploration Data Analysis
 4. Data Preprocessing Encoding
 5. Model Selction
     <br> X: age, bmi, children, region <br>
     Y: Chargers
+6. Linear Regression model
+7. Model Evaluation
+    - berdasarkan hasil evaluasi training_set dengan pendekatan R Square memiliki akurasi 75%
+    - berdasarkan hasil evaluasi test_set dengan pendakatan R Square memiliki akurasi 74%
+    <br> dengan demikian model ini dapat dilanjutkan <br>
+8. Building data predict
+    <br> jika pengguna asuransi berumur  19 tahun atau berjenis kelamin perempuan atau tidak ada anak-anak atau merokok yang tinggal di wilayah southwest diprediksi memmiliki<br> cost_insurance sebesar  USD 25597.739413468422   
