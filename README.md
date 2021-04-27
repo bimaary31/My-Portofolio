@@ -69,3 +69,21 @@ Decision tree:
     
 ## [Project 3: Retail Raw Reduced in DKI Jakarta Province](https://github.com/bimaary31/Data_Visualization.git)
 
+## [Project 4: Isurance Cost Prediction]('https://github.com/bimaary31/insurance_cost_prediction.git')
+- Variabel yang digunakan:
+1. Age
+2. BMI
+3. Children
+4. Region
+
+- Variabel utama
+1. charges
+
+- Tahap-tahap project
+1. Loading data
+2. Data wrangling
+3. Exploration Data
+4. Data Preprocessing Encoding
+5. Model Selction
+    <br> X: age, bmi, children, region <br>
+    Y: Chargers
