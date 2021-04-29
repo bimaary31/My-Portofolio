@@ -85,3 +85,17 @@ Decision tree:
     <br> dengan demikian model ini dapat dilanjutkan <br>
 8. Building data predict
     <br> jika pengguna asuransi berumur  19 tahun atau berjenis kelamin perempuan atau tidak ada anak-anak atau merokok yang tinggal di wilayah southwest diprediksi memmiliki<br> cost_insurance sebesar  USD 25597.739413468422   
+    
+## [Project 5: Market Basket Ball Analysis](https://github.com/bimaary31/apriori.git)
+Project ini menentukan package dari beberapa pembelian barang atau arules
+-Tahap-Tahap Project
+1. Loading data
+2. Menampilkan data
+3. Melakasanakan Market Basket Ball Analysis dengan pendekatan Apriori 
+ 
+Berdasarkan hasil tersebut petfood & sirup layak untuk di jadikan package penjualan karena memiliki nilai support 0.4 dan conffidance 0.8  serta ditunjang dangan  nilai lift di atas 1. Hal ini  menandakan memiliki nilai asosiasi yang kuat,  dan paket ini akan terjual 40%.
+
+
+
+
+
