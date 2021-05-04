@@ -95,6 +95,37 @@ Project ini menentukan package dari beberapa pembelian barang atau arules
  
 Berdasarkan hasil tersebut petfood & sirup layak untuk di jadikan package penjualan karena memiliki nilai support 0.4 dan conffidance 0.8  serta ditunjang dangan  nilai lift di atas 1. Hal ini  menandakan memiliki nilai asosiasi yang kuat,  dan paket ini akan terjual 40%.
 
+## [Project 6: Loan Predict with Approch Support Vector Model](https://github.com/bimaary31/Loan_Model_Prediction.git)<br>
+Project ini menggunakan pendekatan Support Vector Model untuk mengklasifikasi pembiayaan kepada nasabah
+- Tahap-Tahap Project
+1. Loading Data
+2. Check Missing Value
+3. Describe Data
+4. Exploration Data
+5. Convert type data to int64
+6. Selection Model
+7. Training & Testing Model
+8. Evaluation Model
+
+- Hasil 
+Pada model selection menggunakan ukuran uji sebesar 10% dan untuk melatih sebesar 90% dan menghasilkan (48,11) untuk pengujian, (432,11) untuk melatih.
+Berdasarkan hasil evaluasi melatih model.<br>
+Hasil Melatih Model:
+    1. Prediksi confusion matrix Pelanggan yang  benar-benar ditolak  sebanyak 46  nasabah <br>
+    2. Prediksi confusion matrix Pelanggan yang  dinyatakn ditolak namun ternyata diprediksi diterima sebanyak 87 nasabah <br>
+    3. Prediksi confusion matrix Pelanggan yang  dinyatakan diterima namun ternyata ditolak sebanyak  4 nasabah  <br>
+    4. Prediksi confusion matrix Pelanggan yang  benar-benar diterima sebanyak 295 <br>
+Dari hasil model ini sangat membutuhkan prediksi yang ke empat, maka sangat dibutuhkan evaluasi dari precison model tersebut yaitu 77%
+
+Berdasarkan hasil uji model tersebut.<br>
+Hasil menguji Model:
+    1. Prediksi confusion matrix Pelanggan yang  benar-benar ditolak  sebanyak 8  nasabah. <br>
+    2. Prediksi confusion matrix Pelanggan yang  dinyatakn ditolak namun ternyata diprediksi diterima sebanyak 7 nasabah. <br>
+    3. Prediksi confusion matrix Pelanggan yang  dinyatakan diterima namun ternyata diprediksi ditolak sebanyak  1 nasabah.  <br>
+    4. Prediksi confusion matrix Pelanggan yang  benar-benar diterima sebanyak 32. <br>
+Dari hasil model ini sangat membutuhkan prediksi yang ke empat, maka sangat dibutuhkan evaluasi dari precison model tersebut yaitu 88%
+- Kesimpulan:
+    Kesimpulan dari kedua evaluasi model latih dan model uji model ini sangat bagus untuk memprediksi pembiayaan
 
 
 
